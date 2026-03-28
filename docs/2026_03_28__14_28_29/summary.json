@@ -1,0 +1,20 @@
+{
+  "run_name": "hybrid_unified_20260328_142829",
+  "trained_at": "2026-03-28 14:28:29",
+  "model": "yolo11s-seg.pt",
+  "imgsz": 640,
+  "batch": 16,
+  "optimizer": "AdamW",
+  "epochs_configured": 120,
+  "epochs_trained": 75,
+  "best_epoch": 65,
+  "training_fitness": 1.86683,
+  "box_map50_95": 0.95307,
+  "mask_map50_95": 0.91376,
+  "box_map50": 0.97533,
+  "mask_map50": 0.98001,
+  "box_precision": 0.97194,
+  "box_recall": 0.95087,
+  "mask_precision": 0.97831,
+  "mask_recall": 0.95823
+}
