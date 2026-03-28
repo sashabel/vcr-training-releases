@@ -3,7 +3,7 @@
   "run_dir_name": "hybrid_unified_20260327_092548",
   "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/hybrid_unified_20260327_092548",
   "trained_at": "2026-03-27 09:25:48",
-  "published_at": "2026-03-28T13:32:54",
+  "published_at": "2026-03-28T13:36:22",
   "release_url": "https://sashabel.github.io/vcr-training-releases/releases/2026_03_27__09_25_48/",
   "files": {
     "model": "best.pt",
