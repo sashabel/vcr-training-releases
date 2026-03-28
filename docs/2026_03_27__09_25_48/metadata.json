@@ -1,0 +1,19 @@
+{
+  "release_id": "2026_03_27__09_25_48",
+  "run_dir_name": "hybrid_unified_20260327_092548",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/hybrid_unified_20260327_092548",
+  "trained_at": "2026-03-27 09:25:48",
+  "published_at": "2026-03-28T13:32:54",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/releases/2026_03_27__09_25_48/",
+  "files": {
+    "model": "best.pt",
+    "results_csv": "results.csv",
+    "checksums": "checksums.txt"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "74730056aeb8c73cf128f40ddf22e9ef",
+      "sha256": "d60954ff202fec6b3e793b9d176f493f74b4d2dc4245b89952f16df80eada6da"
+    }
+  }
+}
