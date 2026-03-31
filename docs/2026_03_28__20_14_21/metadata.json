@@ -1,0 +1,22 @@
+{
+  "release_id": "2026_03_28__20_14_21",
+  "run_name": "hybrid_unified_yolo11m_20260328_201421",
+  "run_dir_name": "hybrid_unified_yolo11m_20260328_201421",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/hybrid_unified_yolo11m_20260328_201421",
+  "trained_at": "2026-03-28 20:14:21",
+  "published_at": "2026-03-31T07:26:31",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/releases/2026_03_28__20_14_21/",
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "53eb7a3941c0178e1ffa8b81ec43fca2",
+      "sha256": "31277211f1c9220de1863d90689e039ba787d52b66901c851e7c7dc37e9b2182"
+    }
+  }
+}
