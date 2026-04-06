@@ -4,7 +4,7 @@
   "run_dir_name": "yolo11m_768_pat30_lr0012_20260331_102048",
   "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo11m_768_pat30_lr0012_20260331_102048",
   "trained_at": "2026-03-31 10:20:48",
-  "published_at": "2026-04-06T19:54:21",
+  "published_at": "2026-04-06T20:08:15",
   "release_url": "https://sashabel.github.io/vcr-training-releases/releases/2026_03_31__10_20_48/",
   "asset_download_urls": {
     "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_03_31__10_20_48/best.pt",
