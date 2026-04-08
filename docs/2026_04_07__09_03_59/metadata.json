@@ -1,0 +1,33 @@
+{
+  "release_id": "2026_04_07__09_03_59",
+  "run_name": "yolo11s_768_pat30_lr0012_20260407_090359",
+  "run_dir_name": "yolo11s_768_pat30_lr0012_20260407_090359",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo11s_768_pat30_lr0012_20260407_090359",
+  "trained_at": "2026-04-07 09:03:59",
+  "published_at": "2026-04-08T15:43:41",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/releases/2026_04_07__09_03_59/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_07__09_03_59/release_2026_04_07__09_03_59.tar.gz"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_04_07__09_03_59.tar.gz",
+    "metadata": "metadata.json"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "a94fb4c843fecfdefe1e4fa24b95b336",
+      "sha256": "722949421044e62dfe147e43e87a2d1c0e3f249cd472ebf28c7660c0b4b4a8d2"
+    }
+  }
+}
