@@ -1,0 +1,20 @@
+{
+  "run_name": "yolo26s_768_pat15_lr0012_20260409_0856522",
+  "trained_at": "2026-04-11 14:39:42.626303",
+  "model": "yolo26s-seg.pt",
+  "imgsz": 768,
+  "batch": 16,
+  "optimizer": "AdamW",
+  "epochs_configured": 120,
+  "epochs_trained": 117,
+  "best_epoch": 102,
+  "training_fitness": 1.8902100000000002,
+  "box_map50_95": 0.95962,
+  "mask_map50_95": 0.93059,
+  "box_map50": 0.97502,
+  "mask_map50": 0.98087,
+  "box_precision": 0.96776,
+  "box_recall": 0.95672,
+  "mask_precision": 0.96685,
+  "mask_recall": 0.96966
+}
