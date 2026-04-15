@@ -1,0 +1,20 @@
+{
+  "run_name": "yolo26s_768_pat15_lr0012_20260412_2132522",
+  "trained_at": "2026-04-15 09:54:50.025666",
+  "model": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260412_2132522/weights/last.pt",
+  "imgsz": 768,
+  "batch": 16,
+  "optimizer": "AdamW",
+  "epochs_configured": 120,
+  "epochs_trained": 107,
+  "best_epoch": 93,
+  "training_fitness": 1.8695,
+  "box_map50_95": 0.95036,
+  "mask_map50_95": 0.91914,
+  "box_map50": 0.96783,
+  "mask_map50": 0.97291,
+  "box_precision": 0.9554,
+  "box_recall": 0.95297,
+  "mask_precision": 0.96183,
+  "mask_recall": 0.9603
+}
