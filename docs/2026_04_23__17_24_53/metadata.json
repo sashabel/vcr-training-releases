@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_04_23__17_24_53",
+  "run_name": "yolo26s_768_pat15_lr0012_20260423_1724532",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20260423_1724532",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260423_1724532",
+  "trained_at": "2026-04-23 17:24:53",
+  "published_at": "2026-04-26T18:57:04",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_04_23__17_24_53/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/release_2026_04_23__17_24_53.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_23__17_24_53/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_04_23__17_24_53.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "49a3020751dd3a2cff9362cceed31349",
+      "sha256": "c5cd7d34a6d97c9ddb0b539ab8d46f3cc9e52c954598f708a22fdbd553cc068f"
+    }
+  }
+}
