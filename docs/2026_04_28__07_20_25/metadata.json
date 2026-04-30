@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_04_28__07_20_25",
+  "run_name": "yolo26s_768_pat15_lr0012_20260428_072025",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20260428_072025",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260428_072025",
+  "trained_at": "2026-04-28 07:20:25",
+  "published_at": "2026-04-30T07:09:43",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_04_28__07_20_25/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/release_2026_04_28__07_20_25.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_04_28__07_20_25/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_04_28__07_20_25.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "7416b0e1f29234ed5042635de98f93e1",
+      "sha256": "0a63657b2cbda71ead08093263365025654f85c2ebc58617fd4f9d772ba4f894"
+    }
+  }
+}
