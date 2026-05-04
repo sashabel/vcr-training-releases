@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_05_02__13_05_51",
+  "run_name": "yolo26s_768_pat15_lr0012_20260502_130551",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20260502_130551",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260502_130551",
+  "trained_at": "2026-05-02 13:05:51",
+  "published_at": "2026-05-04T20:35:07",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_05_02__13_05_51/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/release_2026_05_02__13_05_51.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_02__13_05_51/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_05_02__13_05_51.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "58158dd8cd10078c6de7f483e4f55b60",
+      "sha256": "912a137d0d0e2f7c1d8d72efa71579c9116bd17fe27a6a137fce03e037743e27"
+    }
+  }
+}
