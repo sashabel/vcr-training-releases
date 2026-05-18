@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_05_05__20_27_26",
+  "run_name": "yolo26m_768_pat15_lr0012_20260505_202726",
+  "run_dir_name": "yolo26m_768_pat15_lr0012_20260505_202726",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26m_768_pat15_lr0012_20260505_202726",
+  "trained_at": "2026-05-05 20:27:26",
+  "published_at": "2026-05-18T06:34:54",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_05_05__20_27_26/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/release_2026_05_05__20_27_26.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_05_05__20_27_26/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_05_05__20_27_26.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "975ef561f8e673506ada68cc9766dc94",
+      "sha256": "afa4d40605c2b12666a2f8d6f3e9e1c5f216a28d3177aa371706e49d50a63c9c"
+    }
+  }
+}
