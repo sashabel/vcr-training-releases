@@ -1,0 +1,2 @@
+md5  e3ba4f5db11e6545c0a33da820aac04f  best.pt
+sha256  192a767a6b002ca053efe8fa30cf9d7c333f05a968236e629a8f4a122beb0d03  best.pt
