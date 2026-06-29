@@ -1,0 +1,41 @@
+{
+  "release_id": "2026_06_29__08_24_36",
+  "run_name": "yolo26s_768_pat15_lr0012_20260629_082436",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20260629_082436",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260629_082436",
+  "trained_at": "2026-06-29 08:24:36",
+  "published_at": "2026-06-29T19:40:57",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_06_29__08_24_36/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/release_2026_06_29__08_24_36.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__08_24_36/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_06_29__08_24_36.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv",
+    "target_product_report": "target_product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "d1648f77452b904b00b379dd31a5275a",
+      "sha256": "b718d20da56ab69084dcf80cb2aacdfcad2f5d400fdbaeca7b95e4dd2ee193e1"
+    }
+  },
+  "product_report_evaluation": {
+    "split": "val",
+    "image_count": 184,
+    "fingerprint": "12970ba3b295a2e116e1b3e90efa6eebe09034d85c5234e75408c4c41ac5258a"
+  }
+}

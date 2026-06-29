@@ -1,0 +1,5 @@
+product,priority,fitness,box_map50_95,mask_map50_95,reasons,suggested_data
+ONE_RAW,P0,0.00000,0.00000,0.00000,low product fitness,"collect more real shelf images: lighting, angle, occlusion, partial views"
+Bepanthen_Plus_Cream_30G,P0,0.82574,0.43168,0.39406,low product fitness,"collect more real shelf images: lighting, angle, occlusion, partial views"
+Acomol_500_16_pil,P2,1.45931,0.80129,0.65801,low product fitness,"collect more real shelf images: lighting, angle, occlusion, partial views"
+EMPTY_PUSHER_PRODUCT,P2,1.46802,0.82013,0.64789,low product fitness,"collect more real shelf images: lighting, angle, occlusion, partial views"
