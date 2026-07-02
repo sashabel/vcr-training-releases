@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_06_29__22_24_21",
+  "run_name": "yolo26s_768_pat15_lr0012_20260629_222421",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20260629_222421",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20260629_222421",
+  "trained_at": "2026-06-29 22:24:21",
+  "published_at": "2026-07-02T09:19:17",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_06_29__22_24_21/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/release_2026_06_29__22_24_21.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_06_29__22_24_21.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "9d939a360103c1d4d538281eab96cff0",
+      "sha256": "43724ce014adc168abb4a14d385862eb57d3f8131661dc401c469ece50c44062"
+    }
+  }
+}

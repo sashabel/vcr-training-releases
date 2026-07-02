@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>VCR Training Release 2026_06_29__22_24_21</title>
+    <style>
+      body { font-family: sans-serif; margin: 2rem auto; max-width: 52rem; padding: 0 1rem; }
+      code { background: #f4f4f4; padding: 0.15rem 0.3rem; border-radius: 0.25rem; }
+      table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+      td, th { border: 1px solid #ddd; padding: 0.6rem; text-align: left; }
+    </style>
+  </head>
+  <body>
+    <h1>VCR Training Release 2026_06_29__22_24_21</h1>
+    <p>Published package for trained model artifacts from <code>2026_06_29__22_24_21</code>.</p>
+    <p>Run name: <code>yolo26s_768_pat15_lr0012_20260629_222421</code></p>
+    <p><a href="../">Back to release index</a></p>
+    <table>
+      <tr><th>Artifact</th><th>Download</th></tr>
+      <tr><td>Trained model</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/best.pt">best.pt</a></td></tr> <tr><td>Effective training config</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/args.yaml">args.yaml</a></td></tr> <tr><td>Release summary</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/summary.json">summary.json</a></td></tr> <tr><td>Training metrics</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/results.csv">results.csv</a></td></tr> <tr><td>Product report</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/product_report.csv">product_report.csv</a></td></tr> <tr><td>Checksums</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/checksums.txt">checksums.txt</a></td></tr> <tr><td>Metadata</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/metadata.json">metadata.json</a></td></tr> <tr><td>Release bundle</td><td><a href="https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_06_29__22_24_21/release_2026_06_29__22_24_21.tar.gz">release_2026_06_29__22_24_21.tar.gz</a></td></tr>
+    </table>
+    <h2>Training Summary</h2>
+    <table><tr><th>Run name</th><td><code>yolo26s_768_pat15_lr0012_20260629_222421</code></td></tr><tr><th>Model</th><td><code>yolo26s-seg.pt</code></td></tr><tr><th>Image size</th><td><code>768</code></td></tr><tr><th>Batch</th><td><code>16</code></td></tr><tr><th>Optimizer</th><td><code>AdamW</code></td></tr><tr><th>Configured epochs</th><td><code>120</code></td></tr><tr><th>Trained epochs</th><td><code>98</code></td></tr><tr><th>Best epoch</th><td><code>83</code></td></tr><tr><th>Training fitness</th><td><code>1.73740</code></td></tr><tr><th>Box mAP50-95</th><td><code>0.89459</code></td></tr><tr><th>Mask mAP50-95</th><td><code>0.84281</code></td></tr><tr><th>Box mAP50</th><td><code>0.95422</code></td></tr><tr><th>Mask mAP50</th><td><code>0.95719</code></td></tr><tr><th>Box precision</th><td><code>0.94793</code></td></tr><tr><th>Box recall</th><td><code>0.93535</code></td></tr><tr><th>Mask precision</th><td><code>0.94707</code></td></tr><tr><th>Mask recall</th><td><code>0.93731</code></td></tr></table>
+    
+    <h2>Product Report</h2>
+    <p>Lowest fitness products are listed first so it is easier to see what to improve next.</p>
+    <table>
+      <tr><th>Product</th><th>Fitness</th><th>Box mAP50-95</th><th>Mask mAP50-95</th></tr>
+      <tr><td><code>ONE_RAW</code></td><td><code>0.93007</code></td><td><code>0.51854</code></td><td><code>0.41153</code></td></tr><tr><td><code>Dexamol_500_16_pil</code></td><td><code>1.42919</code></td><td><code>0.75734</code></td><td><code>0.67185</code></td></tr><tr><td><code>Fenistil_Gel_0.1%</code></td><td><code>1.51916</code></td><td><code>0.80074</code></td><td><code>0.71842</code></td></tr><tr><td><code>Advil_Liqui-Gels_200_16_pil</code></td><td><code>1.52112</code></td><td><code>0.78691</code></td><td><code>0.73422</code></td></tr><tr><td><code>Acomol_500_16_pil</code></td><td><code>1.59761</code></td><td><code>0.83929</code></td><td><code>0.75833</code></td></tr><tr><td><code>Nurofen_For_Children_20Mg_Orange</code></td><td><code>1.60495</code></td><td><code>0.82178</code></td><td><code>0.78316</code></td></tr><tr><td><code>EMPTY_PUSHER_PRODUCT</code></td><td><code>1.61116</code></td><td><code>0.92069</code></td><td><code>0.69047</code></td></tr><tr><td><code>Acomol_Paracetamol_500_14_pil</code></td><td><code>1.63184</code></td><td><code>0.84701</code></td><td><code>0.78483</code></td></tr><tr><td><code>Nurofen_Liquid_Capsules_200_16_pil_new</code></td><td><code>1.67391</code></td><td><code>0.89328</code></td><td><code>0.78064</code></td></tr><tr><td><code>Agisten_Aloevera_Cream_01%</code></td><td><code>1.68868</code></td><td><code>0.89644</code></td><td><code>0.79224</code></td></tr><tr><td><code>Bepanthen_Plus_Cream_30G</code></td><td><code>1.70765</code></td><td><code>0.88173</code></td><td><code>0.82592</code></td></tr><tr><td><code>Otrivin</code></td><td><code>1.70793</code></td><td><code>0.84209</code></td><td><code>0.86584</code></td></tr><tr><td><code>Nurofen_Liquid_Capsules_200_10_pil_new</code></td><td><code>1.72647</code></td><td><code>0.90904</code></td><td><code>0.81743</code></td></tr><tr><td><code>Nurofen_For_Children_20Mg_Strawberry</code></td><td><code>1.74781</code></td><td><code>0.86470</code></td><td><code>0.88311</code></td></tr><tr><td><code>Voltaren_emulgel_1%</code></td><td><code>1.75810</code></td><td><code>0.90304</code></td><td><code>0.85506</code></td></tr><tr><td><code>Nurofen_Tablets_200_mg</code></td><td><code>1.76603</code></td><td><code>0.89987</code></td><td><code>0.86616</code></td></tr><tr><td><code>Nurofen_Quick_Liquid_Capsules_256_16_pil</code></td><td><code>1.77923</code></td><td><code>0.89804</code></td><td><code>0.88119</code></td></tr><tr><td><code>Zovirax_Aciclovir_5%_ww</code></td><td><code>1.85576</code></td><td><code>0.93998</code></td><td><code>0.91578</code></td></tr><tr><td><code>Strepsils_honey_and_lemon</code></td><td><code>1.86648</code></td><td><code>0.94968</code></td><td><code>0.91680</code></td></tr><tr><td><code>Otrivin_Mentol</code></td><td><code>1.87457</code></td><td><code>0.94344</code></td><td><code>0.93113</code></td></tr><tr><td><code>Acomol_teva_10_caplets_500_mg</code></td><td><code>1.87881</code></td><td><code>0.93069</code></td><td><code>0.94812</code></td></tr><tr><td><code>Rennie_Peppermint_48_pil</code></td><td><code>1.90868</code></td><td><code>0.96925</code></td><td><code>0.93943</code></td></tr><tr><td><code>Tums_Smoothies_EX_Berry_fusion</code></td><td><code>1.91679</code></td><td><code>0.97597</code></td><td><code>0.94083</code></td></tr><tr><td><code>Nerven_20_pil</code></td><td><code>1.94085</code></td><td><code>0.98911</code></td><td><code>0.95174</code></td></tr><tr><td><code>Lemocin_Lemon_24_pil</code></td><td><code>1.98733</code></td><td><code>1.00000</code></td><td><code>0.98733</code></td></tr>
+    </table>
+
+    <h2>Checksums</h2>
+    <p>MD5: <code>9d939a360103c1d4d538281eab96cff0</code></p>
+    <p>SHA256: <code>43724ce014adc168abb4a14d385862eb57d3f8131661dc401c469ece50c44062</code></p>
+    <p>Permanent URL: <a href="https://sashabel.github.io/vcr-training-releases/2026_06_29__22_24_21/">https://sashabel.github.io/vcr-training-releases/2026_06_29__22_24_21/</a></p>
+  </body>
+</html>
