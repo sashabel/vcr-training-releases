@@ -1,0 +1,35 @@
+{
+  "release_id": "2026_10_24__09_00_11",
+  "run_name": "yolo26s_768_pat15_lr0012_20261024_090011",
+  "run_dir_name": "yolo26s_768_pat15_lr0012_20261024_090011",
+  "run_dir": "/home/sashabel/work/vcr-training/artifacts/runs/yolo26s_768_pat15_lr0012_20261024_090011",
+  "trained_at": "2026-10-24 09:00:11",
+  "published_at": "2026-10-27T04:38:00",
+  "release_url": "https://sashabel.github.io/vcr-training-releases/2026_10_24__09_00_11/",
+  "asset_download_urls": {
+    "model": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/best.pt",
+    "config": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/args.yaml",
+    "results_csv": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/results.csv",
+    "release_summary": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/summary.json",
+    "metadata": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/metadata.json",
+    "checksums": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/checksums.txt",
+    "release_bundle": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/release_2026_10_24__09_00_11.tar.gz",
+    "product_report": "https://github.com/sashabel/vcr-training-releases/releases/download/release-2026_10_24__09_00_11/product_report.csv"
+  },
+  "files": {
+    "model": "best.pt",
+    "config": "args.yaml",
+    "results_csv": "results.csv",
+    "release_summary": "summary.json",
+    "checksums": "checksums.txt",
+    "release_bundle": "release_2026_10_24__09_00_11.tar.gz",
+    "metadata": "metadata.json",
+    "product_report": "product_report.csv"
+  },
+  "checksums": {
+    "best.pt": {
+      "md5": "65a3c34f2c3e0ac3383c056a56a0c8e0",
+      "sha256": "7b19fe13f8edb111cd19e1eda463a9feebb28f943d6ed6609301936b488eaf10"
+    }
+  }
+}
